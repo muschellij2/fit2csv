@@ -1,0 +1,25 @@
+Type: Package
+Package: fit2csv
+Version: 0.0.1
+Title: Tools for Converting FIT files to CSV
+Description: Leverages the 'FIT' 'SDK' 
+    <https://www.thisisant.com/resources/fit/> to convert Fit files to CSV.
+Authors@R: c(person(given = "John",family = "Muschelli",
+  email = "muschellij2@gmail.com",
+  role = c("aut", "cre"),
+  comment = c(ORCID = "0000-0001-6469-1750"))
+  )
+SystemRequirements: Java
+License: GPL-3
+Suggests: 
+    knitr,
+    covr,
+    testthat
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
+VignetteBuilder: knitr
+URL: https://github.com/muschellij2/fit2csv
+BugReports: https://github.com/muschellij2/fit2csv/issues
+RoxygenNote: 6.1.1
+Roxygen: list(markdown = TRUE)
