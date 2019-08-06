@@ -1,12 +1,13 @@
 
+<!-- badges: start -->
+
 [![Travis build
 status](https://travis-ci.com/muschellij2/fit2csv.svg?branch=master)](https://travis-ci.com/muschellij2/fit2csv)
 [![AppVeyor Build
 Status](https://ci.appveyor.com/api/projects/status/github/muschellij2/fit2csv?branch=master&svg=true)](https://ci.appveyor.com/project/muschellij2/fit2csv)
 [![Coverage
-status](https://coveralls.io/repos/github/muschellij2/fit2csv/badge.svg?branch=master)](https://coveralls.io/r/muschellij2/fit2csv?branch=master)
-[![Coverage
 status](https://codecov.io/gh/muschellij2/fit2csv/branch/master/graph/badge.svg)](https://codecov.io/github/muschellij2/fit2csv?branch=master)
+<!-- badges: end -->
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # fit2csv Package:
