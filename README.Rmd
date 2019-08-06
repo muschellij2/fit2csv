@@ -35,7 +35,8 @@ remotes::install_github("muschellij2/fit2csv")
 ```{r}
 library(fit2csv)
 file = system.file("extdata", "example.fit",
-package = "fit2csv")
+                   package = "fit2csv")
 res = fit2csv(file)
 x = read.csv(res, as.is = TRUE)
+head(x)
 ```
